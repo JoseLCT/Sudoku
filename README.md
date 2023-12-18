@@ -1,3 +1,3 @@
-# SUDOKU
+# Sudoku
 
-2021 - 1
+Programación 1, 2021-1
